@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="flex flex-col items-center text-center">
           {/* Profile Image */}
           <img 
-            src="src/assets/profile-pic.png" 
+            src="/profile-pic.png" 
             alt="Alex Bennett" 
             className="w-32 h-32 md:w-60 md:h-60 rounded-full mb-4 object-cover"
           />
