@@ -3,7 +3,6 @@ import currentCompany from '../../Utils/companyDetails';
 import AboutCompany from '../Experience/AboutCompany';
 import Headings from '../Headings';
 import Mrq from '../maquee/Mrq';
-import '../maquee/Mrq.css';
 
 const AboutMe = () => {
   return (
