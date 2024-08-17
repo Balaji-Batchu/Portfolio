@@ -1,0 +1,19 @@
+const currentCompany = {
+    organisation: 'National Informatics Centre',
+    experience: '1+ year',
+    role: 'Java FullStack Developer',
+    noticePeriod: '1 Month (Negotiable)',
+    teamSize: '20 Members',
+    payrollCompany: 'Net Prophets',
+    achievements: [
+      'Developed 5+ REST APIs following API development standards and best practices.',
+      'Improved Oracle Database query performance by 40% through the implementation of index concepts.',
+      'Implemented global exception handling, resulting in effortless error handling.'
+    ],
+    backendSkills: 'Java, SpringBoot, J2EE, Spring Data JPA, Hibernate, REST API, microservices',
+    frontendSkills: 'Javascript, React.Js, JQuery, TailwindCss, Bootstrap, HTML/CSS',
+    databaseSkills: 'Oracle, MySQL',
+    otherSkills: 'Data Structures and Algorithms, Git, Spring Tool Suite, Intellij, Docker'
+  };
+
+export default currentCompany;

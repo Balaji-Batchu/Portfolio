@@ -1,0 +1,8 @@
+/* HeroSection.css */
+.glassmorphism-container {
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+    border-radius: 15px; /* Rounded corners */
+    backdrop-filter: blur(10px); /* Blur effect for glassmorphism */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+  }
+  

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #020d0be5;
+}
+
+.height_adjust{
+  height: 75px;
+  background: linear-gradient(90deg, #f9d23e, #419ea7); /* Gradient from yellow to teal */
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
