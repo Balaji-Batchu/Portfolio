@@ -9,7 +9,7 @@ const Notification = ({ message }) => (
   </div>
 );
 
-export const ContactSide = () => {
+const ContactMe = () => {
   const form = useRef();
   const [popup, setPopup] = useState(false);
   const [loading, setLoading] = useState(false);
@@ -147,4 +147,4 @@ export const ContactSide = () => {
   );
 };
 
-export default ContactSide;
+export default ContactMe;

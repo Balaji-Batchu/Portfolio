@@ -5,7 +5,7 @@ import Headings from '../Headings';
 import Mrq from '../maquee/Mrq';
 import '../maquee/Mrq.css';
 
-const AboutMeSection = () => {
+const AboutMe = () => {
   return (
     <section id="experience" className="bg-[#020d0be5] text-yellow-50 min-h-screen relative py-12">
       <div className="container mx-auto text-center">
@@ -33,4 +33,4 @@ const AboutMeSection = () => {
   );
 };
 
-export default AboutMeSection;
+export default AboutMe;

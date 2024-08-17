@@ -9,7 +9,7 @@ const HeroSection = () => {
       <main className="flex flex-col items-center justify-center min-h-[94vh] bg-[#020d0be5] text-amber-200 px-4 py-2">
         <div className="flex flex-col items-center text-center">
           {/* Profile Image */}
-          <img 
+          <img rel='preload'
             src="/profile-pic.png" 
             alt="Alex Bennett" 
             className="w-32 h-32 md:w-60 md:h-60 rounded-full mb-4 object-cover"

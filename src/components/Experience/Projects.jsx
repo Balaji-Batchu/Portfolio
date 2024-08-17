@@ -23,7 +23,7 @@ const projectsList = [
   }
 ];
 
-export const Projects = () => {
+const Projects = () => {
   const handleCardClick = (liveLink) => {
     window.open(liveLink, '_blank');
   };
@@ -62,3 +62,5 @@ export const Projects = () => {
     </section>
   );
 };
+
+export default Projects;
